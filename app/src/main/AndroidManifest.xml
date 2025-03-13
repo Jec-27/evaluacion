@@ -24,7 +24,7 @@
         <activity android:name=".AccesoActivity"></activity>
         <activity android:name=".RegistropersonalActivity"> </activity>
         <activity android:name=".SolicitarreservaActivity"></activity>
-        <activity android:name=".CrearusuarioActivity"></activity>
+        <activity android:name=".CrearusuarioActivity"></activity
         <activity android:name=".ReservaciondemesaActivity"></activity>
     </application>
 

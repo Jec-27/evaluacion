@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_fondoacceso.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\fondoacceso.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_registropersonal.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\registropersonal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_registropersonal.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\registropersonal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_fondomarino.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\fondomarino.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_solicitarreserva.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\solicitarreserva.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.entregable.app-debug-32:/layout_crearusuario.xml.flat",
+        "source": "com.example.entregable.app-main-34:/layout/crearusuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.entregable.app-debug-32:/layout_registropersonal.xml.flat",
+        "source": "com.example.entregable.app-main-34:/layout/registropersonal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_reservaciondemesa.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\reservaciondemesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_reparitdor.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\reparitdor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_mesa.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\mesa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_crearusuario.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\crearusuario.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_solicistarreserva.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\solicistarreserva.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_reportereservarmesa.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\reportereservarmesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_acceso.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\acceso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_crearusuario.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\crearusuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-debug-32:\\drawable_reservaciondemesa.jpg.flat",
+        "source": "C:\\Users\\Instructor\\.gradle\\daemon\\8.10.2\\com.example.entregable.app-main-34:\\drawable\\reservaciondemesa.jpg"
+    }
+]
